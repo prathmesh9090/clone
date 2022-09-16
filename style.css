@@ -11,6 +11,13 @@
     text-align: center;
 }
 
+
+.zoom:hover {
+    transform: scale(1.2);
+    transition: transform .2s;
+    /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
 #craimg{
     height: 550px;
 }
