@@ -1,0 +1,25 @@
+.carousel-item{
+    height: 300px;
+}
+
+#cimg{
+    height: 300px;
+    width: 33%;
+}
+
+#label{
+    text-align: center;
+}
+
+#craimg{
+    height: 550px;
+}
+
+#products{
+    width: 100%;
+}
+
+#footer{
+    height: 10rem;
+}
+
